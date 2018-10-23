@@ -1,0 +1,4 @@
+.menu li a.selected {
+    background: url(/local/media/images/bg/menu-bg.png) repeat-x;
+    color: #fff;
+}

@@ -1,4 +1,10 @@
 <?
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("1С-Битрикс: Управление сайтом");
-?><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
+$APPLICATION->SetTitle("Главная страница");
+?>
+    <p>Обратитесь к нашим специалистам и получите профессиональную консультацию по услугам нашей компании.</p>
+    <p>Вы можете обратиться к нам по телефону, по электронной почте или договориться о встрече в нашем офисе.</p>
+    <p>Будем рады помочь вам и ответить на все ваши вопросы. </p>
+
+
+<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
